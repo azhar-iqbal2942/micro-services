@@ -11,7 +11,6 @@ A project using micro-services architecture using following technologies.
 ### Project Requirements
 ```
  Docker
- pipenv or (any other dependency manager tool)
 ```
 
 ### Project Setup
